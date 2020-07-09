@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a086606f-da2f-4c96-b55c-b6706876a6ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bFPcB8A7VLIpnNP8AstCWPoc9d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.OfflineMapApp">
+    <configuration name="EarthquakeCityMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module5.EarthquakeCityMap" />
+      <module name="UCSDUnfoldingMaps" />
+      <option name="PROGRAM_PARAMETERS" value="module5.EarthquakeCityMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EarthquakeCityMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module4.EarthquakeCityMap" />
+      <module name="UCSDUnfoldingMaps" />
+      <option name="PROGRAM_PARAMETERS" value="module4.EarthquakeCityMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EarthquakeCityMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module5.EarthquakeCityMap" />
+      <module name="UCSDUnfoldingMaps" />
+      <option name="PROGRAM_PARAMETERS" value="module5.EarthquakeCityMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EarthquakeCityMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module4.EarthquakeCityMap" />
+      <module name="UCSDUnfoldingMaps" />
+      <option name="PROGRAM_PARAMETERS" value="module4.EarthquakeCityMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EarthquakeCityMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module4.EarthquakeCityMap" />
+      <module name="UCSDUnfoldingMaps" />
+      <option name="PROGRAM_PARAMETERS" value="module4.EarthquakeCityMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OfflineMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfflineMapApp" />
+      <module name="UCSDUnfoldingMaps" />
+      <option name="PROGRAM_PARAMETERS" value="module6.EarthquakeCityMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OfflineMapApp" />
+        <item itemvalue="Application.OfflineMapApp" />
+        <item itemvalue="Application.OfflineMapApp" />
+        <item itemvalue="Application.OfflineMapApp" />
+        <item itemvalue="Application.OfflineMapApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a086606f-da2f-4c96-b55c-b6706876a6ad" name="Default Changelist" comment="" />
+      <created>1588224945026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588224945026</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="516" y="198" key="#Project_Structure" timestamp="1588224962716">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state x="516" y="198" key="#Project_Structure/0.0.1848.1080@0.0.1848.1080" timestamp="1588224962716" />
+    <state x="442" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594120182565">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="378" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1848.1080@0.0.1848.1080" timestamp="1589028310427" />
+    <state x="442" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1858.1080/1920.7.1858.1080@62.0.1858.1080" timestamp="1594120182565" />
+    <state x="768" y="245" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1594120170667">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="768" y="245" key="#com.intellij.ide.macro.MacrosDialog/62.0.1858.1080/1920.7.1858.1080@62.0.1858.1080" timestamp="1594120170667" />
+    <state x="717" y="324" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594120143829">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="717" y="324" key="#com.intellij.ide.util.TreeClassChooserDialog/62.0.1858.1080/1920.7.1858.1080@62.0.1858.1080" timestamp="1594120143829" />
+    <state x="721" y="287" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1594311221908">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="721" y="287" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/62.0.1858.1080/1920.7.1858.1080@62.0.1858.1080" timestamp="1594311221908" />
+    <state x="771" y="281" key="FileChooserDialogImpl" timestamp="1594313982263">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="771" y="281" key="FileChooserDialogImpl/62.0.1858.1080/1920.7.1858.1080@62.0.1858.1080" timestamp="1594313982263" />
+    <state width="1815" height="138" key="GridCell.Tab.0.bottom" timestamp="1594312999819">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1805" height="138" key="GridCell.Tab.0.bottom/0.0.1848.1080@0.0.1848.1080" timestamp="1589043243394" />
+    <state width="1815" height="138" key="GridCell.Tab.0.bottom/62.0.1858.1080/1920.7.1858.1080@62.0.1858.1080" timestamp="1594312999819" />
+    <state width="1815" height="138" key="GridCell.Tab.0.center" timestamp="1594312999818">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1805" height="138" key="GridCell.Tab.0.center/0.0.1848.1080@0.0.1848.1080" timestamp="1589043243394" />
+    <state width="1815" height="138" key="GridCell.Tab.0.center/62.0.1858.1080/1920.7.1858.1080@62.0.1858.1080" timestamp="1594312999818" />
+    <state width="1815" height="138" key="GridCell.Tab.0.left" timestamp="1594312999818">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1805" height="138" key="GridCell.Tab.0.left/0.0.1848.1080@0.0.1848.1080" timestamp="1589043243394" />
+    <state width="1815" height="138" key="GridCell.Tab.0.left/62.0.1858.1080/1920.7.1858.1080@62.0.1858.1080" timestamp="1594312999818" />
+    <state width="1815" height="138" key="GridCell.Tab.0.right" timestamp="1594312999818">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1805" height="138" key="GridCell.Tab.0.right/0.0.1848.1080@0.0.1848.1080" timestamp="1589043243394" />
+    <state width="1815" height="138" key="GridCell.Tab.0.right/62.0.1858.1080/1920.7.1858.1080@62.0.1858.1080" timestamp="1594312999818" />
+    <state width="1815" height="271" key="GridCell.Tab.1.bottom" timestamp="1594311313077">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1072" height="334" key="GridCell.Tab.1.bottom/0.0.1848.1080@0.0.1848.1080" timestamp="1588313933957" />
+    <state width="1815" height="271" key="GridCell.Tab.1.bottom/62.0.1858.1080/1920.7.1858.1080@62.0.1858.1080" timestamp="1594311313077" />
+    <state width="1815" height="271" key="GridCell.Tab.1.center" timestamp="1594311313077">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1072" height="334" key="GridCell.Tab.1.center/0.0.1848.1080@0.0.1848.1080" timestamp="1588313933957" />
+    <state width="1815" height="271" key="GridCell.Tab.1.center/62.0.1858.1080/1920.7.1858.1080@62.0.1858.1080" timestamp="1594311313077" />
+    <state width="1815" height="271" key="GridCell.Tab.1.left" timestamp="1594311313077">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1072" height="334" key="GridCell.Tab.1.left/0.0.1848.1080@0.0.1848.1080" timestamp="1588313933957" />
+    <state width="1815" height="271" key="GridCell.Tab.1.left/62.0.1858.1080/1920.7.1858.1080@62.0.1858.1080" timestamp="1594311313077" />
+    <state width="1815" height="271" key="GridCell.Tab.1.right" timestamp="1594311313077">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1072" height="334" key="GridCell.Tab.1.right/0.0.1848.1080@0.0.1848.1080" timestamp="1588313933957" />
+    <state width="1815" height="271" key="GridCell.Tab.1.right/62.0.1858.1080/1920.7.1858.1080@62.0.1858.1080" timestamp="1594311313077" />
+    <state x="685" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1594295568027">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="620" y="364" key="com.intellij.ide.util.TipDialog/0.0.1848.1080@0.0.1848.1080" timestamp="1590476546076" />
+    <state x="685" y="364" key="com.intellij.ide.util.TipDialog/62.0.1858.1080/1920.7.1858.1080@62.0.1858.1080" timestamp="1594295568027" />
+    <state x="654" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1594296609025">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="654" y="235" width="672" height="678" key="search.everywhere.popup/62.0.1858.1080/1920.7.1858.1080@62.0.1858.1080" timestamp="1594296609025" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/module3/EarthquakeCityMap.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="earthquakes.get(400)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
